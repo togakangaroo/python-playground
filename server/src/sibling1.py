@@ -1,4 +1,4 @@
-from .sibling2 import bar
+from src.sibling2 import bar
 
 bar()
 
