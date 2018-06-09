@@ -1,2 +1,2 @@
 def bar():
-    print('bar called')
+    print('sibling2/bar called')
